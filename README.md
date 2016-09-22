@@ -30,7 +30,7 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+Outputting to a csv file required figuring out a way to get the formatting right, which will be useful if that needs to be done again. The bash script for n from 1 to 10000 might be a bit excessive--the sage cloud servers didn't seem to enjoy that so 100 was used instead. As it turns out, generating lists with an average size of 5000 elements that happen to contain extraordinarily large integers 10000 times takes a while.
 
 ## Honor Pledge
 
