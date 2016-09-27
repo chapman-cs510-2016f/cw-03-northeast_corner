@@ -3,6 +3,14 @@
 This program takes a command line argument n (positive integer) and prints the nth fibonacci number.
 """
 
+#
+### INSTRUCTOR COMMENT:
+# See the sequences file for my main comments, which are repeated here.
+# Also, imports should be done at the top of the file, ideally, except for
+# specific imports needed only for the __main__ block, which should be at the
+# top of the __main__ block.
+#
+
 def main(argv):
     """
     This function will execute if fib.py is run from the command line. It prints the nth fibonacci number.
